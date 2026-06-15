@@ -1,0 +1,11 @@
+﻿query_id,ground_truth_id,retrieved_ids,hit@k,rank
+q_case_028,case_028,"['case_028', 'case_030', 'case_022', 'case_004', 'case_001']",1,1
+q_case_016,case_016,"['case_016', 'case_001', 'case_013', 'case_018', 'case_006']",1,1
+q_case_024,case_024,"['case_001', 'case_013', 'case_018', 'case_006', 'case_009']",0,-1
+q_case_018,case_018,"['case_001', 'case_013', 'case_018', 'case_006', 'case_009']",1,3
+q_case_009,case_009,"['case_001', 'case_013', 'case_018', 'case_006', 'case_009']",1,5
+q_case_010,case_010,"['case_010', 'case_014', 'case_029', 'case_009', 'case_017']",1,1
+q_case_029,case_029,"['case_029', 'case_001', 'case_013', 'case_012', 'case_027']",1,1
+q_case_025,case_025,"['case_025', 'case_005', 'case_027', 'case_002', 'case_026']",1,1
+q_case_013,case_013,"['case_001', 'case_013', 'case_018', 'case_006', 'case_009']",1,2
+q_case_001,case_001,"['case_001', 'case_013', 'case_018', 'case_006', 'case_009']",1,1

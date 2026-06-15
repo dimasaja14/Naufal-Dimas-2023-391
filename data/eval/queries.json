@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": "q_case_028",
+    "query_text": "jahe telah memberikan putusan nomor 56/pdt.g/2023/pn kbj, tanggal 31 oktober 2023, yang amarnya sebagai berikut: 1. mengabulkan gugatan penggugat untuk sebagian; 2. menyatakan perkawinan penggugat dan tergugat yang dilaksanakan secara agama kristen tanggal 15 januari 2014 dan telah dicatatkan dalam pencatatan sipil di kabupaten karo",
+    "ground_truth_id": "case_028",
+    "true_label": "hadhanah_nafkah"
+  },
+  {
+    "query_id": "q_case_016",
+    "query_text": "n-alasannya telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan peninjauan kembali tersebut secara formal dapat diterima; menimbang bahwa",
+    "ground_truth_id": "case_016",
+    "true_label": "waris"
+  },
+  {
+    "query_id": "q_case_024",
+    "query_text": "telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; menimbang, bahwa",
+    "ground_truth_id": "case_024",
+    "true_label": "waris"
+  },
+  {
+    "query_id": "q_case_018",
+    "query_text": "telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; menimbang, bahwa",
+    "ground_truth_id": "case_018",
+    "true_label": "harta_bersama"
+  },
+  {
+    "query_id": "q_case_009",
+    "query_text": "telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; menimbang, bahwa",
+    "ground_truth_id": "case_009",
+    "true_label": "harta_bersama"
+  },
+  {
+    "query_id": "q_case_010",
+    "query_text": "ka 11.9, dan objek yang berdiri di atas objek sengketa angka 11.1 yakni 1 (satu) unit rumah panggung kayu jati 16 (enam belas) tiang dan 1 (satu) unit bangunan dapur permanen ukuran 6 (enam) meter x 6 (enam) meter. oleh karena itu,",
+    "ground_truth_id": "case_010",
+    "true_label": "harta_bersama"
+  },
+  {
+    "query_id": "q_case_029",
+    "query_text": "sebagai sekolah tahfizh yayasan zainal abidin dengan alas hak sertipikat hak milik nomor 01.18.03.03.1.00253, yang terletak di gampong jawa, kecamatan langsa kota, kota langsa, sebagaimana petitum gugatan penggugat angka 2.10, dengan batas-batas sebagai berikut: - sebelah utara berbatasan dengan jalan a. yani sepanjang 40 (empat puluh) meter; disclaimer kepaniteraan berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen mahkamah agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu. dalam hal anda menemukan inakurasi informasi yang termuat pada situs ini atau informasi yang seharusnya ada, namun belum tersedia, maka harap segera hubungi kepaniteraan mahkamah agung ri melalui : email : kepaniteraan mahkamahagung.go.id telp : 021-384 3348 (ext.318) hal. put. no. 66 k/ag/2026 - sebelah timur berbatasan dengan hotel kartika sepanjang",
+    "ground_truth_id": "case_029",
+    "true_label": "harta_bersama"
+  },
+  {
+    "query_id": "q_case_025",
+    "query_text": "lan agama padangsidimpuan dengan penetapan nomor 88/pdt.p/2025/pa.psp. tanggal 5 juni 2025 masehi bertepatan dengan tanggal 9 zulhijah 1446 hijriah; menimbang, bahwa sesudah penetapan terakhir ini dibacakan kepada para pemohon kasasi pada tanggal 5 juni 2025, kemudian terhadapnya oleh para pemohon kasasi dengan perantaraan kuasanya,",
+    "ground_truth_id": "case_025",
+    "true_label": "lainnya"
+  },
+  {
+    "query_id": "q_case_013",
+    "query_text": "telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; menimbang, bahwa",
+    "ground_truth_id": "case_013",
+    "true_label": "harta_bersama"
+  },
+  {
+    "query_id": "q_case_001",
+    "query_text": "telah diberitahukan kepada pihak lawan dengan saksama, diajukan dalam tenggang waktu dan dengan cara yang ditentukan dalam undang-undang, oleh karena itu permohonan kasasi tersebut secara formal dapat diterima; menimbang, bahwa",
+    "ground_truth_id": "case_001",
+    "true_label": "hadhanah_nafkah"
+  }
+]
